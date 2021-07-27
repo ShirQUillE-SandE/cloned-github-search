@@ -1,33 +1,33 @@
-### Project name:
+### Project name::
     - Github-search
 ​
 ## Project description:
     - Github-search for other developers
   
 ​
-## Author(s) information:
+## Author(s) information:-
     - Shirquille Sande
   
 ## Setup instructions
     - 
 ​
-## BDD
+## BDD-
     As a user, with this tool you;
 ​
     - See a  small description of what the application does on the landing page. 
     - Enter name of a developer
     - Get full details n his/her github account
   
-## Live link
+## Live link-
     Deployed project can be accessed here -  [Akan Names Generator](https://shirquille-sande.github.io/cloned-gitgub-search/)
 ​
-## Technologies used
+## Technologies used-
     - HTML
     - CSS
     -Angular
     - JS 
   
-## Contact information
+## Contact information-
     - Email: shirquille.sande@student.moringaschool.com
     -github name: Shirquille Sande
   
