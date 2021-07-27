@@ -13,18 +13,21 @@ import { ProfileComponent } from './profile/profile.component';
 import { StrikethroughDirective } from './strikethrough.directive';
 import { ServicesCountPipe } from './services-count.pipe';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
     StrikethroughDirective,
     ServicesCountPipe,
+
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule
+
   ],
   providers: [ProfileService],
   bootstrap: [AppComponent]
