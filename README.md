@@ -15,9 +15,8 @@
     As a user, with this tool you;
 ​
     - See a  small description of what the application does on the landing page. 
-    - Enter your birthday through a form
-    - Choose what gender I am.
-    - Click the submit button to see what your Akan name would be
+    - Enter name of a developer
+    - Get full details n his/her github account
   
 ## Live link
     Deployed project can be accessed here -  [Akan Names Generator](https://shirquille-sande.github.io/cloned-gitgub-search/)
