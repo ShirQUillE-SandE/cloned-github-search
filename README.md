@@ -19,7 +19,7 @@
     - Get full details n his/her github account
   
 ## Live link-
-    Deployed project can be accessed here -  [Akan Names Generator](https://shirquille-sande.github.io/cloned-gitgub-search/)
+    Deployed project can be accessed here - (https://shirquille-sande.github.io/cloned-gitgub-search/)
 ​
 ## Technologies used-
     - HTML
